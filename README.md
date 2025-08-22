@@ -5,6 +5,8 @@ Es un sistema de base de datos diseñado para gestionar un blog donde varios aut
 1. Conocer el funcionamiento de un Blog con Multiples autores desde una base de datos.
 2. Diseñar e implementar una base de datos para un blog con múltiples autores, capaz de gestionar publicaciones, comentarios y etiquetas, y facilitar el análisis del contenido.
 3. Implementar un esquema de base de datos robusto que permita a múltiples autores contribuir simultáneamente.
+4. Documentar la estructura y uso del repositorio, incluyendo guías de instalación, configuración y contribución para facilitar el trabajo colaborativo.
+5. Integrar control de versiones mediante Git, permitiendo el seguimiento de cambios en el código y en el esquema de la base de datos.
 
 ### Tecnologias Que Usaria 
 * MySQL
